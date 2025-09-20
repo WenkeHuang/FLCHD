@@ -1,0 +1,10 @@
+results/
+wandb/
+visualization_results/
+analysis_results/
+*.log
+*.log.*
+*.log.*.*
+*.log.*.*.*
+*.log.*.*.*.*
+*.log.*.*.*.*.*
