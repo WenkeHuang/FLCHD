@@ -19,10 +19,10 @@ If you find this repository helpful for your research, we would greatly apprecia
   year={2026}
 }
 @article{FLSurveyandBenchmarkforGenRobFair_TPAMI24,
-    title={Federated Learning for Generalization, Robustness, Fairness: A Survey and Benchmark},
-    author={Wenke Huang and Mang Ye and Zekun Shi and Guancheng Wan and He Li and Bo Du and Qiang Yang},
-    journal={TPAMI},
-    year={2024}
+  title={Federated Learning for Generalization, Robustness, Fairness: A Survey and Benchmark},
+  author={Wenke Huang and Mang Ye and Zekun Shi and Guancheng Wan and He Li and Bo Du and Qiang Yang},
+  journal={TPAMI},
+  year={2024}
 }
 @article{FCCLPlus_TPAMI23,
   title={Generalizable Heterogeneous Federated Cross-Correlation and Instance Similarity Learning}, 
@@ -31,16 +31,16 @@ If you find this repository helpful for your research, we would greatly apprecia
   journal={TPAMI}
 }
 @inproceedings{FPL_CVPR2023,
-    author    = {Huang, Wenke and Mang, Ye and Shi, Zekun and Li, He and Bo, Du},
-    title     = {Rethinking Federated Learning with Domain Shift: A Prototype View},
-    booktitle = {CVPR},
-    year      = {2023}
+  title     = {Rethinking Federated Learning with Domain Shift: A Prototype View},
+  author    = {Huang, Wenke and Mang, Ye and Shi, Zekun and Li, He and Bo, Du},
+  booktitle = {CVPR},
+  year      = {2023}
 }
 @inproceedings{FCCL_CVPR22,
-    title={Learn from others and be yourself in heterogeneous federated learning},
-    author={Huang, Wenke and Ye, Mang and Du, Bo},
-    booktitle={CVPR},
-    year={2022}
+  title={Learn from others and be yourself in heterogeneous federated learning},
+  author={Huang, Wenke and Ye, Mang and Du, Bo},
+  booktitle={CVPR},
+  year={2022}
 }
 ```
 
