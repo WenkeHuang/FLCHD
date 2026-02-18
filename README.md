@@ -13,7 +13,7 @@ If you find this repository helpful for your research, we would greatly apprecia
 
 ```bibtex
 @article{FLCHD_npjDM26,
-  title={Learn from Downstream and Be Yourself in Multimodal Large Language Models Fine-Tuning},
+  title={Federated Clinical Concept and Disease Semantic Learning for Congenital Heart Disease Diagnosis},
   author = {Huang, Wenke and Liao, Yangxu and Lei, Wenjia and Wan, Guancheng and Rong, Xuankun and Wen, Chi and Li, He and Ye, Mang and Wu, Qingqing and Du, Bo},
   journal={npj Digital Medicine},
   year={2026}
